@@ -1,0 +1,3 @@
+# For people who want to debug or add new features:-
+- version control allow anyone to check out the project's materials and get updates.
+- Bug tracker allow anyone to track bug reports, new feature requests, one-time tasks, unsolicited patches, etc...

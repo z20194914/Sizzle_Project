@@ -1,0 +1,3 @@
+# Start from what you have
+Based on the founders of the restaurant system for ITSE302, Sizzle Restaurant Services System should be translated into a free and open-source system. The system has been partially developed and programmed, and it is now time to portably package the code for it to run on any computing platform. "open source software", and give the exact license
+The system's improvements will focus on inventory management, customer order, management reporting systems, and ranking in that order. By optimizing inventory management, marketing, and food preparation, the new system will be focused on enhancing the customer service.
